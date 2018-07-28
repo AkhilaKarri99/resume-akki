@@ -1,9 +1,47 @@
 {
 	"details":{
 		"name":"akki",
-		"image":"desert.png",
+		"image":"desert.jpg",
 		"phone":"7989347916",
 		"email":"akhilakarri123@gmail.com",
 		"study":"btech"
+	},
+	"education":[
+		{
+			"course":"B.Tech",
+			"college":"MIC college",
+			"branch":"CSE",
+			"per":"70"
+		},
+		{
+			"course":"inter",
+			"college":"sri chaitanya",
+			"branch":"MPC",
+			"per":"95.5"
+		},
+		{
+			"course":"10th",
+			"college":"bhashyam",
+			"branch":"general",
+			"per":"95"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming language",
+			"output":[
+				"C","C++","Java","Python"
+			]
+		},
+		{
+			"title":"Operating System",
+			"output":[
+				"Windows","Linux","MAC"
+			]
+ 
+ }
+],
+	"carrier":{
+		"co":"my college name is MIC, my school name is geeethanjali,my hobbies are playing games"
 	}
 }
